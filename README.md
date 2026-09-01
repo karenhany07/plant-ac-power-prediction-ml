@@ -15,4 +15,4 @@ An end-to-end Machine Learning task developed as part of the **NTI** training pr
 ## 🚀 How to Run locally
 1. Clone the repository:
    ```bash
-   git clone [[https://github.com/karenhany07/plant-ac-power-prediction-ml](https://github.com/karenhany07/plant-ac-power-prediction-ml)]
+   git clone [https://github.com/karenhany07/plant-ac-power-prediction-ml](https://github.com/karenhany07/plant-ac-power-prediction-ml)]
